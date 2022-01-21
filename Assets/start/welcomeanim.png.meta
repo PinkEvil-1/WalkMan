@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 5f15a9080ad3cce4381a99e74478e8af
+timeCreated: 1539788012
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: welcomeanim_0
+    21300002: welcomeanim_1
+    21300004: welcomeanim_2
+    21300006: welcomeanim_3
+    21300008: welcomeanim_4
+    21300010: welcomeanim_5
+    21300012: welcomeanim_6
+    21300014: welcomeanim_7
+    21300016: welcomeanim_8
+    21300018: welcomeanim_9
+    21300020: welcomeanim_10
+    21300022: welcomeanim_11
+    21300024: welcomeanim_12
+    21300026: welcomeanim_13
+    21300028: welcomeanim_14
+    21300030: welcomeanim_15
+    21300032: welcomeanim_16
+    21300034: welcomeanim_17
+    21300036: welcomeanim_18
+    21300038: welcomeanim_19
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: welcomeanim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13332
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_1
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 13332
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_2
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 13332
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_3
+      rect:
+        serializedVersion: 2
+        x: 9999
+        y: 13332
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9999
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_5
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 9999
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_6
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 9999
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_7
+      rect:
+        serializedVersion: 2
+        x: 9999
+        y: 9999
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6666
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_9
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 6666
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_10
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 6666
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_11
+      rect:
+        serializedVersion: 2
+        x: 9999
+        y: 6666
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3333
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_13
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 3333
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_14
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 3333
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_15
+      rect:
+        serializedVersion: 2
+        x: 9999
+        y: 3333
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_17
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 0
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_18
+      rect:
+        serializedVersion: 2
+        x: 6666
+        y: 0
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: welcomeanim_19
+      rect:
+        serializedVersion: 2
+        x: 9999
+        y: 0
+        width: 3333
+        height: 3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
